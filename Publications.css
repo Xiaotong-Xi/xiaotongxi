@@ -623,13 +623,23 @@
 }
 
 .u-section-4 .u-btn-3 {
+  background-image: none;
+  padding: 0;
+}
+
+.u-section-4 .u-btn-4 {
+  background-image: none;
+  padding: 0;
+}
+
+.u-section-4 .u-btn-5 {
   font-size: 1.125rem;
   font-family: 'Open Sans',sans-serif;
   background-image: none;
   padding: 0;
 }
 
-.u-section-4 .u-btn-4 {
+.u-section-4 .u-btn-6 {
   font-size: 1.125rem;
   font-family: 'Open Sans',sans-serif;
   background-image: none;
